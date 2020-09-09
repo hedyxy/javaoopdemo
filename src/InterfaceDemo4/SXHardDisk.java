@@ -2,6 +2,7 @@ package InterfaceDemo4;
 
 public class
 
+
 SXHardDisk implements HardDisk {
     @Override
     public String getVolumn() {
